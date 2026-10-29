@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-RSS+Reader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Reeder Free Installer** — Reeder is a premium RSS and read-later application for macOS and iOS known for its beautiful, minimal design and smooth reading experience. Works without internet access, no account required. Full offline installation.
+**💻 Reeder Free Installer** — Reeder is a premium macOS and iOS RSS reader known for its beautiful, typography-focused design. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Reeder
 
-Reeder is a premium RSS and read-later application for macOS and iOS known for its beautiful, minimal design and smooth reading experience. Sync with Feedbin, Feedly, NewsBlur, and other RSS services, or use local feeds without an account. Reeder's elegant interface, keyboard navigation, and bi-directional scroll make it a pleasure for reading large volumes of RSS content daily.
+Reeder is a premium macOS and iOS RSS reader known for its beautiful, typography-focused design. It integrates with all major RSS sync services including Feedbin, Feedly, and Feed Wrangler while providing a best-in-class reading experience.
 
 ---
 
 ## ❌ Problem: Reeder is hard to access
 
-- **Apple Only** — macOS and iOS only
-- **Commercial License** — Paid application with separate Mac and iOS purchases
-- **Sync Service Dependency** — Full value requires RSS sync service subscription
-- **No Windows/Android** — Cannot use on non-Apple devices
+- **Apple Ecosystem Only** — No Windows or Android version
+- **Paid App** — Requires purchase
+- **RSS Service Required for Sync** — Syncing across devices requires paid RSS service like Feedbin
+- **Limited Customization** — Minimal interface customization options
 
 ---
 
@@ -121,7 +121,7 @@ Reeder is a premium RSS and read-later application for macOS and iOS known for i
 
 ---
 
-**Reeder Free Installer** — Reeder is a premium RSS and read-later application for macOS and iOS known for its beautiful, minimal design and smooth reading experience. Install without internet connection today!
+**Reeder Free Installer** — Reeder is a premium macOS and iOS RSS reader known for its beautiful, typography-focused design. Install without internet connection today!
 
 <div align="center">
 
